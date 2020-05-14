@@ -37,8 +37,7 @@ There are many, many other benefits to this system. Give it a try!
 - I'm currently tried my best to fork the script. This script is not really at it best form because of my limitation working with bash script and commands, but at least it working as I expected. So, I need some help to refactor this script for better working.
 
 # TODO
-
- [ ] Add PageSpeed module
+- [ ] Add PageSpeed module
 
 # Issues
 
